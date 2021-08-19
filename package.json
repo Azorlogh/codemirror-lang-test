@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.18.0",
+    "@codemirror/highlight": "^0.18.0",
+    "@codemirror/lang-EXAMPLE": "link:./lang-example",
+    "@codemirror/language": "^0.18.0",
+    "@rollup/plugin-node-resolve": "^13.0.4",
+    "rollup": "^2.35.1"
+  }
+}
